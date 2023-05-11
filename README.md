@@ -1,3 +1,8 @@
+# Enterprise Budget Planner Application
+## A Web Application Created To Manage All Your Resource Oriented Budget Allocation Needs In An Enterprise Environment, Using React.js
+<img width="960" alt="image" src="https://github.com/harshaljanjani/Budget-Planner/assets/75426551/312c5367-22d7-4192-a047-3b6b7b97c401">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
